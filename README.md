@@ -1,17 +1,18 @@
 # The-Chocolate-Factory
 1. Project Title / Headline
+   
 🍫 THE CHOCOLATE FACTORY: SALES PERFORMANCE DASHBOARD A Power BI solution designed to track chocolate shipments, monitor revenue trends, and evaluate sales team efficiency for the given dataset.
 
-2. Short Description / Purpose
+3. Short Description / Purpose
 The Chocolate Factory Dashboard transforms raw shipment logs into a professional analytical tool. It is built to visualize $10M+ revenue stream, identify seasonal trends, and isolate high-performing products using dynamic, interactive visuals.
 
-3. Tech Stack
+4. Tech Stack
 🖥️ Power BI Desktop: The main tool I used to pull in the data, clean up the mess, and build the actual report.
 🔢 DAX & Aggregates: Simple math used to calculate the big totals, like how much money we made (Revenue) and how many boxes were shipped.
 🎨 Conditional Formatting: I set up "rules" so that the charts change color automatically—this makes the best and worst performers jump out at you.
 📇 New Card Visual: Those big, easy-to-read numbers at the top used for showing the most important stats (KPIs).
 
-4. Data Source
+5. Data Source
 Source: Internal Excel-based shipment records.
 
 Data Structure: Transaction-level data including Salesperson, Product, Geography (Country), Shipment Date, Amount, and Box counts.
