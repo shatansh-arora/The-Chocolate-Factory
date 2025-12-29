@@ -10,8 +10,11 @@ The Chocolate Factory Dashboard transforms raw shipment logs into a professional
 3. Tech Stack
    
 🖥️ Power BI Desktop: Served as the primary development environment for end-to-end ETL processes, data modeling, and report orchestration.
+
 🔢 DAX & Aggregates: Utilized for the implementation of calculated measures to derive critical business metrics, including total revenue and shipment volume.
+
 🎨 Conditional Formatting: Integrated logic-based visual rules to dynamically highlight performance variances and key outliers across charts and tables.
+
 📇 New Card Visual: Leveraged for high-level KPI tracking, providing an immediate executive summary of core organizational metrics.
 
 4. Data Source
