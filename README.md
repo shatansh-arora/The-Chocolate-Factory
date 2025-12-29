@@ -67,6 +67,4 @@ Data-Driven Geography: The donut chart reveals regional sales density, informing
 
 7. Screenshots:
    
- [Dashboard Preview]
- 
-(https://github.com/shatansh-arora/The-Chocolate-Factory/blob/main/The%20chocolate%20factory.png)
+ ![Dashboard Preview](https://github.com/shatansh-arora/The-Chocolate-Factory/blob/main/The%20chocolate%20factory.png)
