@@ -24,10 +24,15 @@ The Chocolate Factory Dashboard transforms raw shipment logs into a professional
 🏗️ Data Structure: The data is organized by "transactions," meaning every row is a real sale. It includes:
 
 👤 Salesperson: Identifies the specific representative responsible for the transaction.
+
 🍫 Product: Specifies the individual SKU or chocolate variety associated with the shipment.
+
 🌍 Geography: Defines the target country or regional market for the fulfillment.
+
 📅 Shipment Date: Records the precise timestamp of the transaction for temporal analysis.
+
 📦 Boxes: Captures the total fiscal revenue and the physical unit volume per shipment.
+
 💰 Amount : Denotes total amount of money.
 
 5. Features / Highlights
@@ -43,10 +48,15 @@ The Chocolate Factory Dashboard transforms raw shipment logs into a professional
 Walkthrough of Key Visuals:
 
 📌 KPI Summary: High-level cards displaying Total Amount and Total Boxes for immediate status checks.
+
 📈 Monthly Revenue Trend (Area Chart): A time-series analysis showing revenue fluctuations to identify seasonal demand patterns.
+
 🍩 Geographic Distribution (Donut Chart): Visualizes market share by country, highlighting regional revenue concentration.
+
 🏆 Salesperson Leaderboard (Table): A ranked performance list featuring in-cell data bars for rapid comparative analysis.
+
 📊 Product Performance (Clustered Bar Chart): Dynamic bar chart utilizing Conditional Coloring to highlight products exceeding the $1.5M revenue threshold.
+
 🗓️ Temporal Slicers: Range-based date filters allowing for granular analysis across specific fiscal periods.
 
 6. Business Impact & Insights
