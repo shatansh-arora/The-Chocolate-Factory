@@ -65,6 +65,8 @@ Operational Clarity: Moving from raw spreadsheets to "The Chocolate Factory" das
 Targeted Product Analysis: The color-coded bar chart immediately flags underperforming vs. overperforming products, allowing for better inventory and marketing decisions.
 Data-Driven Geography: The donut chart reveals regional sales density, informing where the logistics team should focus their efforts.
 
-7. Screenshots: 
+7. Screenshots:
+   
  [Dashboard Preview]
+ 
 (https://github.com/shatansh-arora/The-Chocolate-Factory/blob/main/The%20chocolate%20factory.png)
